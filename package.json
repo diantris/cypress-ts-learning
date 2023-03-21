@@ -1,0 +1,34 @@
+{
+  "name": "cypress-ts-learning",
+  "version": "1.0.0",
+  "description": "Cypress example with TypeScript for learning purposes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diantris/cypress-ts-learning.git"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "diantris",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/diantris/cypress-ts-learning/issues"
+  },
+  "homepage": "https://github.com/diantris/cypress-ts-learning#readme",
+  "engines": {
+    "node": "^18.12.1",
+    "yarn": "^1.22.19"
+  },
+  "dependencies": {
+    "eslint": "^8.36.0"
+  },
+  "devDependencies": {
+    "cypress": "^12.8.1",
+    "prettier": "2.8.6",
+    "typescript": "^5.0.2"
+  }
+}
